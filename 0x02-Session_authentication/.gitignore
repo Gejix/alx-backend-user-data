@@ -1,0 +1,5 @@
+api/__pycache__/
+api/v1/__pycache__/
+api/v1/auth/__pycache__/
+models/__pycache__/
+.db_User.json
